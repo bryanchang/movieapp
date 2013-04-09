@@ -1,0 +1,47 @@
+body {
+	background-color: #f6f6f6;
+}
+
+strong {
+	font-weight: 800;
+}
+
+#home {
+	width: 500px;
+	margin: 100px auto;
+}
+
+h1 {
+	font-family: 'Bitter', serif;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 1400;
+	font-style: bold;
+}
+
+.moovle{
+	letter-spacing: 7px;
+
+}
+
+form {
+	padding: 50px;
+}
+
+form input[type="text"] {
+	margin-bottom: 0;
+	width: 400px;
+}
+
+.center{
+	margin: auto;
+}
+
+.search_box{
+	margin-bottom: 0px;
+}
+
+.search_details{
+	width: 800px;
+	margin: auto;
+}
